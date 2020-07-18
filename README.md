@@ -93,17 +93,6 @@ emojiMaps: {
     "tieba48":"image_emoticon48.png",
     "tieba49":"image_emoticon49.png",
     "tieba50":"image_emoticon50.png",
-    "tieba51":"image_emoticon51.png",
-    "tieba52":"image_emoticon52.png",
-    "tieba53":"image_emoticon53.png",
-    "tieba54":"image_emoticon54.png",
-    "tieba55":"image_emoticon55.png",
-    "tieba56":"image_emoticon56.png",
-    "tieba57":"image_emoticon57.png",
-    "tieba58":"image_emoticon58.png",
-    "tieba59":"image_emoticon59.png",
-    "tieba60":"image_emoticon60.png",
-    "tieba61":"image_emoticon61.png",
     "tieba62":"image_emoticon62.png",
     "tieba63":"image_emoticon63.png",
     "tieba64":"image_emoticon64.png",
@@ -253,17 +242,6 @@ emojiMaps:
 ![48](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon48.png)
 ![49](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon49.png)
 ![50](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon50.png)
-![51](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon51.png)
-![52](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon52.png)
-![53](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon53.png)
-![54](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon54.png)
-![55](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon55.png)
-![56](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon56.png)
-![57](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon57.png)
-![58](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon58.png)
-![59](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon59.png)
-![60](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon60.png)
-![61](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon61.png)
 ![62](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon62.png)
 ![63](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon63.png)
 ![64](https://cdn.jsdelivr.net/gh/microlong666/tieba_mobile_emotions/image_emoticon64.png)
