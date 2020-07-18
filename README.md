@@ -1,0 +1,2 @@
+# Tieba_mobile_emotions
+百度贴吧移动端提取的默认表情包
